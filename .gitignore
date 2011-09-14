@@ -1,0 +1,9 @@
+*.*~
+*.pyc
+*.swp
+.gitignore
+MANIFEST
+build/
+dist/
+docs/_build/
+nirvana_cli.egg-info/
